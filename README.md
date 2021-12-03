@@ -12,6 +12,7 @@
   6. Captial Power Corporation 
   7. libraries 
   8. Analysis
+  9. Resources
 
 ### About
 Using various python libraries and tools the data will be used to train and test to create an algorithm that predicts as closely as possible the general trend of the individual stock and the stocks as a portfolio as well a detailed analysis of the trends shown. 
